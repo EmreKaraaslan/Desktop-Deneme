@@ -1,13 +1,13 @@
 # Kodluyoruz Ilk Repo
-Bu repo Kodluyoruz Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
-Oncelikle projeyi clonelayin.
+Öncelikle projeyi clonelayın.
 git clone https://github.com/EmreKaraaslan/Desktop-Deneme.git
 
 # Usage
-Projeyi cloneladiktan sonra Visual Studio programinda aciniz.
-Linux icin:
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Linux için:
 cd kodluyoruzilkrepo
 code .
 
