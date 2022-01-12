@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 # Installation
 Öncelikle projeyi clonelayın.
 
-`git clone https://github.com/EmreKaraaslan/Desktop-Deneme.git`
+git clone `https://github.com/EmreKaraaslan/Desktop-Deneme.git`
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
